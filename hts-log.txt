@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jun 2024 20:47:29 at https://praktio.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://praktio.com/ -O1 "F:\website\Funix Software Engineer\WDU202x.1.0.VN\Asm 1 mon 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:48:21	Error: 	"Not Found" (404) at link https://praktio.com/OPR/ (from https://praktio.com/)
+20:48:21	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://praktio.com/)
+20:50:34	Error: 	"Not Found" (404) at link https://praktio.com/cdn/shop/t/35/assets/h/cdn/shop/files/star-black-shape-in-a-circle-outline-favourite-interface-symbol_2.png (from https://praktio.com/cdn/shop/t/35/assets/styles.css?v=173815735524747291715637346)
+20:50:34	Error: 	"Not Found" (404) at link https://praktio.com/cdn/shop/t/13/assets/select.png?v=11259594172122509499 (from https://praktio.com/cdn/shop/t/35/assets/styles.css?v=173815735524747291715637346)
+20:50:34	Error: 	"Not Found" (404) at link https://praktio.com/cdn/shop/t/13/assets/loader.gif?v=3840824444089752909 (from https://praktio.com/cdn/shop/t/35/assets/styles.css?v=173815735524747291715637346)
+20:50:34	Error: 	"Not Found" (404) at link https://praktio.com/cdn/shop/t/13/assets/blank.gif?v=16482679876569321596 (from https://praktio.com/cdn/shop/t/35/assets/styles.css?v=173815735524747291715637346)
+20:50:34	Error: 	"Not Found" (404) at link https://praktio.com/pages/OPR/ (from https://praktio.com/pages/privacy-policy)
+20:50:34	Error: 	"Bad Request" (400) at link https://praktio.com/cart/add?id=_BUYTEAM_ (from https://praktio.com/pages/elearning)
+20:50:34	Error: 	"Bad Request" (400) at link https://praktio.com/cart/add?id=_BUYSELF_ (from https://praktio.com/pages/elearning)
+20:50:41	Error: 	"Not Found" (404) at link https://praktio.com/products/OPR/ (from https://praktio.com/products/workshops)
+20:54:04	Error: 	"Not Found" (404) at link https://praktio.com/blogs/resources/OPR/ (from https://praktio.com/blogs/resources/beyond-traditional-learning-how-goodwin-is-preparing-associates-for-the-genai-era)
+20:54:31	Error: 	"Not Found" (404) at link https://storage.googleapis.com/praktio/DirectRelief_Logo_RGB.png (from https://praktio.com/products/force-majeure)
+20:54:31	Error: 	"Not Found" (404) at link https://praktio.com/blogs/OPR/ (from https://praktio.com/blogs/resources)
+20:55:56	Error: 	"Not Found" (404) at link https://praktio.com/products/organizing-better-briefs (from https://praktio.com/products/organize-better-briefs-teams?variant=40340505690269)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 33 seconds : 354 links scanned, 339 files written (84279624 bytes overall) [81640715 bytes received at 159143 bytes/sec], 5967812 bytes transferred using HTTP compression in 97 files, ratio 22%, 14.7 requests per connection
+(14 errors, 0 warnings, 0 messages)

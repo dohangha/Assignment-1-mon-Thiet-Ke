@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+praktio.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22MY10%22%2C%22reg%22%3A%22%22%7D
+praktio.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	tgMPEsnbnq1zNiesZBBwzv7Lx6gRK.9vG2MPQ.TRirQ-1718628621-1.0.1.1-Lq.xfYMnmSr2XyLJbwOa.3L5nxKgqSeyV3mNejdL.TStYzNp0MHK_HzVqnDvJE3AOyIyZEMXj7yFH1A3hS00aw
+praktio.com	TRUE	/	FALSE	1999999999	cart	Z2NwLWFzaWEtc291dGhlYXN0MTowMUowSzNaVFQzRzZGSFdYU1JIR0JQWEJNNA%3Fkey%3D4a9ca4a438edfcd5fa927ae5cc658545
+praktio.com	TRUE	/	FALSE	1999999999	cart_ts	1718628833
+praktio.com	TRUE	/	FALSE	1999999999	cart_sig	b3487219f5cc861e33394471f4aff139
+praktio.com	TRUE	/	FALSE	1999999999	localization	MY
+praktio.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+praktio.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+praktio.com	TRUE	/	FALSE	1999999999	_shopify_y	046bcd48-0b96-48eb-83e8-1a2986935239
+praktio.com	TRUE	/	FALSE	1999999999	_shopify_s	cc7c98b2-f81c-4aab-8b13-4ab3331807ee
+praktio.com	TRUE	/	FALSE	1999999999	keep_alive	2150a134-27b6-411e-ba9d-bd4f01e12fa1
+praktio.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
